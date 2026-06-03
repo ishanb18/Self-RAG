@@ -103,8 +103,8 @@ Default parameters:
 - **Chunk size**: 600 characters
 - **Chunk overlap**: 150 characters
 - **Retriever k**: 4 (top results)
-- **Embedding model**: `text-embedding-3-large`
-- **LLM model**: `gpt-4o-mini`
+- **Embedding model**: `mistral-embed`
+- **LLM model**: `mistral-small-latest`
 - **Temperature**: 0
 
 ## Features
